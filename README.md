@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi sangat Berambisi, ingin mengubah dunia dengan sebuah Teknologi canggih buatannya sendiri!
 
-- 🔭 I’m currently working on Liechat project
-- 💬 Brainstorm with me over tech, algorithms, career, and programing
-- 📫 How to reach me: itsmelief@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: ..
+- 🔭 Saya sedang mengerjakan project Liechat
+- 💬 Diskusikan dengan saya tentang teknologi, algoritma, karier, dan pemrograman
+- 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
+- 😄 Kata ganti: Programmer / She / Her / Hers
+- ⚡ Fakta menyenangkan: Saya heker :D
 
 **Languages and Tools:** 
 
