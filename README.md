@@ -21,7 +21,7 @@ Terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi sangat Be
 - 💬 Diskusikan dengan saya tentang teknologi, algoritma, karier, dan pemrograman
 - 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
 - 😄 Pronouns: Programmer / She / Her / Hers
-- ⚡ Fun fact: Saya heker :D
+- ⚡ Fun fact: Saya pria sadboy :)
 
 **Languages and Tools:** 
 
