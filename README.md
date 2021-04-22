@@ -1,5 +1,4 @@
 ### Hi Kawan 👋, Aku [Alief Ramadhan](https://github.com/itsmelief)
-Seorang developer menuju progammer!
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
