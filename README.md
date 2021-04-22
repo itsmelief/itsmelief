@@ -20,8 +20,8 @@ Terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi sangat Be
 - 🔭 Saya sedang mengerjakan project Liechat
 - 💬 Diskusikan dengan saya tentang teknologi, algoritma, karier, dan pemrograman
 - 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
-- 😄 Kata ganti: Programmer / She / Her / Hers
-- ⚡ Fakta menyenangkan: Saya heker :D
+- 😄 Pronouns: Programmer / She / Her / Hers
+- ⚡ Fun fact: Saya heker :D
 
 **Languages and Tools:** 
 
