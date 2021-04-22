@@ -1,4 +1,5 @@
-### Hi Kawan 👋, Aku [Alief Ramadhan](https://itsmelief.github.io/)! 
+### Hi Kawan 👋, Aku [Alief Ramadhan](https://github.com/itsmelief)
+Developer to Progammer!
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi sangat Berambisi, ingin mengubah dunia dengan sebuah Teknologi canggih buatannya sendiri!
+Saya web designer, web developer, dan juga app developer dari Indonesia, masih junior kawan. Saya suka sekali memecahkan masalah di dunia nyata dan juga di dunia code dan saya penggemar teknologi. Walau terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi saya sangat Berambisi, ingin mengubah dunia dengan sebuah Teknologi canggih buatan saya sendiri! 
+
 
 - 🔭 Saya sedang mengerjakan project Liechat
 - 💬 Diskusikan dengan saya tentang teknologi, algoritma, karier, dan pemrograman
