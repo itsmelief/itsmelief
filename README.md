@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Saya web designer, web developer, dan juga app developer dari Indonesia, masih junior kawan. Saya suka sekali memecahkan masalah di dunia nyata dan juga di dunia code. Saya penggemar Teknologi, walau terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi saya sangat Berambisi, ingin mengubah dunia dengan sebuah Teknologi canggih buatan saya sendiri! 
+Panggil saja aku Lief, seorang web designer, web developer, dan juga app developer dari Indonesia, masih junior kawan. Saya suka sekali memecahkan masalah di dunia nyata dan juga di dunia code. Saya penggemar Teknologi, walau terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi saya sangat Berambisi, ingin mengubah dunia dengan sebuah Teknologi canggih buatan saya sendiri! 
 
 
 - 🔭 Saya sedang mengerjakan project Liechat
