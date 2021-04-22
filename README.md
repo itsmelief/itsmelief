@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Alief Ramadhan](https://rusty-sj.github.io/)! 
+### Hi Kawan 👋, Aku [Alief Ramadhan](https://itsmelief.github.io/)! 
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 Terlahir dari keluarga yang tak mengenal Teknologi sama sekali. Tetapi sangat Berambisi, ingin mengubah dunia dengan sebuah Teknologi canggih buatannya sendiri!
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
+- 🔭 I’m currently working on Liechat project
+- 💬 Brainstorm with me over tech, algorithms, career, and programing
+- 📫 How to reach me: itsmelief@gmail.com
 - 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- ⚡ Fun fact: ..
 
 **Languages and Tools:** 
 
