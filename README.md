@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Panggil aku Lief. Seorang web designer, web developer, dan juga app developer dari Indonesia, masih pemula kawan. Saya suka memecahkan masalah di dunia nyata dan juga di dunia code. Saya penggemar Teknologi, walau terlahir dari keluarga yang tak mengenal teknologi sama sekali... tetapi saya sangat berambisi, ingin mengubah dunia dengan sebuah teknologi canggih buatan saya sendiri! 
 
 
-- 🔭 Saya sedang mengerjakan project Liechat
-- 💬 Diskusikan dengan saya tentang Teknologi, Algoritma, Pemrograman, dan Sains. 
+- 🔭 Saya sedang mengerjakan project Lichat
+- 💬 Diskusikan dengan saya tentang Teknologi, Sains, Algoritma, dan Pemrograman. 
 - 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
 - 😄 Pronouns: Programmer / She / Her / Hers
 - ⚡ Fun fact: I'm Nolife
