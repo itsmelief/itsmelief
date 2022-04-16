@@ -21,8 +21,6 @@ Panggil aku Lief. Seorang web designer, web developer, dan juga app developer da
 - 🔭 Saya sedang mengerjakan project Lichat
 - 💬 Diskusikan dengan saya tentang Teknologi, Sains, Algoritma, dan Pemrograman. 
 - 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
-- 😄 Pronouns: Programmer / She / Her / Hers
-- ⚡ Fun fact: I'm Nolife
 
 **Languages and Tools:** 
 
