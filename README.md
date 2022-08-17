@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Panggil saya Lief. Seorang junior programmer python asal Jakarta, Indonesia. Saya suka memecahkan masalah di dunia nyata dan juga di dunia pemrograman. Saya penggemar teknologi, walau terlahir dari keluarga yang tak mengenal teknologi sama sekali... tetapi saya sangat berambisi, ingin mengubah dunia dengan sebuah teknologi canggih buatan saya sendiri! 
+Panggil saja Lief. Seorang junior programmer python asal Indonesia. Saya suka memecahkan masalah di dunia nyata dan juga di dunia pemrograman. Saya penggemar teknologi, walau terlahir dari keluarga yang tak mengenal teknologi sama sekali... tetapi saya sangat berambisi, ingin mengubah dunia dengan sebuah teknologi canggih buatan saya sendiri! 
 
 
 - 🔭 Saya sedang mempelajari Automation & Machine Learning
