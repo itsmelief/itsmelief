@@ -19,7 +19,7 @@ Seorang junior programmer python asal Indonesia. Saya suka memecahkan masalah di
 
 
 - 🌱 Saya sedang mempelajari Automation & Machine Learning
-- 💬 Diskusikan dengan saya tentang Teknologi, Matematik, dan Python. 
+- 💬 Diskusikan dengan saya tentang Teknologi, Matematik, dan Python
 - 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
 
 **Languages and Tools:** 
