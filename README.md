@@ -1,4 +1,4 @@
-### Hai 👋, Saya [Alief Ramadhan](https://github.com/itsmelief)
+### Hai, Saya [Alief Ramadhan](https://github.com/itsmelief)
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Panggil saja Lief. Seorang junior programmer python asal Indonesia. Saya suka memecahkan masalah di dunia nyata dan juga di dunia pemrograman. Dan Saya juga penggemar teknologi. Walau terlahir dari keluarga yang kurang mengenal teknologi, tetapi saya berambisi ingin membuat sebuah teknologi canggih buatan saya sendiri yang bermanfaat bagi banyak orang.
+Seorang junior programmer python asal Indonesia. Saya suka memecahkan masalah di dunia nyata dan juga di dunia pemrograman. Dan Saya juga penggemar teknologi. Walau terlahir dari keluarga yang kurang mengenal teknologi, tetapi saya berambisi ingin membuat sebuah teknologi canggih buatan saya sendiri yang bermanfaat bagi banyak orang.
 
 
-- 🔭 Saya sedang mempelajari Automation & Machine Learning
+- 🌱 Saya sedang mempelajari Automation & Machine Learning
 - 💬 Diskusikan dengan saya tentang Teknologi, Matematik, dan Python. 
 - 📫 Bagaimana menghubungi saya: itsmelief@gmail.com
 
