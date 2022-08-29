@@ -4,5 +4,8 @@
 4. Focusing Learning Python
 
 - Python
--PHP
--HTML
+  Django
+- Javasript
+  React
+- CSS
+  
