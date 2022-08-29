@@ -16,3 +16,4 @@
 - MySQL
 - Mongodb
 - Dart
+- Haskel
