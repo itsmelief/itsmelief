@@ -12,3 +12,5 @@
   Bootsrap
 - C++
 - C
+- C#
+- MySQL
