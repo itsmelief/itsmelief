@@ -1,3 +1,4 @@
 1. Merawat tanaman
 2. Berangkat sekolah
 3. Buat sesuatu yang bermanfaat
+4. Focusing Learning Python
