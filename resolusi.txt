@@ -10,4 +10,5 @@
 - CSS
   Tailwind
   Bootsrap
-  
+- C++
+- C
